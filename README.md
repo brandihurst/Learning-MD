@@ -14,7 +14,7 @@ List
 
 2. 
 
-[link to google](www.google.com)
+[link to google](https://www.google.com)
 
 This paragraph has some `variable` inline code
 
